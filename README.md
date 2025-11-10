@@ -153,7 +153,7 @@ Each example in this repository is designed to help you:
 
 ## 🗺️ Your Recommended Learning Path
 
-Feeling overwhelmed? Here's a logical order to tackle the topics:
+Feeling overwhelmed? Here's a order to tackle the topics:
 
 1.  Arrays
 2.  Character Array
@@ -193,7 +193,7 @@ This repository will continue to grow. Planned enhancements include:
 
 ## 🧾 License
 
-This repository is open-source and available under the **[MIT License](https://www.google.com/search?q=LICENSE)**. You are free to use, modify, and distribute the code for educational or personal projects.
+You are free to use, modify, and distribute the code for educational or personal projects.
 
 -----
 
